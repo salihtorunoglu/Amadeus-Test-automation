@@ -1,2 +1,6 @@
 # Amadeus-Test-automation
-Test case for Amadeus qa position
+
+A Case study with Selenium
+
+Salih Emre Torunoğlu
+
